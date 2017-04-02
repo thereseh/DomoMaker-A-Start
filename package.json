@@ -44,5 +44,9 @@
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-import": "^1.10.1",
     "nodemon": "^1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thereseh/DomoMaker-A-Start.git"
   }
 }
